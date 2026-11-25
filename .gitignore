@@ -1,0 +1,15 @@
+# Compilação
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Arquivo Temporário
+*.log
+
+# Segredos e configurações locais
+.env
+appsettings.Development.json
